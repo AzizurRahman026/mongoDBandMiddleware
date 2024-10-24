@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kZeNZ7C8GHwWtYIuM1oW35xCyyaFKVv0GgWXgD3gYcE=",
+  "Source": "basicMongoDBandMiddleware",
+  "BasePath": "_content/basicMongoDBandMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
